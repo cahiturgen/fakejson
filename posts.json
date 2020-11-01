@@ -16,17 +16,17 @@
   },
   {
     "id": 4,
-    img: "/supernova.jpg",
-    title: "Süpernova Nedir?"
+    "img": "/supernova.jpg",
+    "title": "Süpernova Nedir?"
   },
   {
     "id": 5,
-    img: "/cam.jpg",
-    title: "Cam Katı Bir Madde Midir Yosa Sıvı Mı?"
+    "img": "/cam.jpg",
+    "title": "Cam Katı Bir Madde Midir Yosa Sıvı Mı?"
   },
   {
     "id": 6,
-    img: "/bukalemun.jpg",,
-    title: "Bukalemunlar Ne Yapar?"
+    "img": "/bukalemun.jpg",,
+    "title": "Bukalemunlar Ne Yapar?"
   }
 ]
