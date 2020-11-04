@@ -3,17 +3,17 @@
     {
       "id": 1,
       "title": "İlk Karalar Nasıl Oluştu?",
-      "image": "https://bilenyok.com/_next/image?url=%2Filk-karalar.jpg"
+      "image": "/ilk-karalar.jpg"
     },
     {
       "id": 2,
       "title": "Marstan Gelen Birine İnsanı Nasıl Tarif Ederdin?",
-      "image": "https://bilenyok.com/_next/image?url=%2Fmars.jpg"
+      "image": "/mars.jpg"
     },
     {
       "id": 3,
       "title": "Beynin En Çok Hoşuna Giden Yanı Nedir?",
-      "image": "https://bilenyok.com/_next/image?url=%2Fbeyin.jpg"
+      "image": "/beyin.jpg"
     }
   ],
   "comments": [
