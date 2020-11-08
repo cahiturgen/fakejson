@@ -19,23 +19,18 @@
   "categories": [
     {
       "id": 1,
-      "title": "Bilim",
-      "url":"bilim"
+      "title": "İlginç Bilgiler",
+      "url":"ilginc-bilgiler"
     },
     {
       "id": 2,
-      "title": "İnsan",
-      "url":"insan"
+      "title": "İlginç Yazılar",
+      "url":"ilginc-yazilar"
     },
         {
       "id": 3,
-      "title": "Hayvanlar",
-      "url":"hayvanlar"
-    },
-        {
-      "id": 4,
-      "title": "Doğa",
-      "url":"doga"
+      "title": "İlginç Sorular",
+      "url":"ilginc-sorular"
     }
   ],
   "profile": {
