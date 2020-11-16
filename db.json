@@ -19,7 +19,7 @@
       "capacity":"600-700 Kişi",
       "star": "4",
       "starvoting": "25",
-      "iseditorspick":"false",
+      "iseditorspick":false,
       "image": "/double.png"
     },
     {
@@ -30,7 +30,7 @@
       "capacity":"Max 200-300 Kişi",
       "star": "3",
       "starvoting": "45",
-      "iseditorspick":"true",
+      "iseditorspick":true,
       "image": "/mio.png"
     },
     {
@@ -41,7 +41,7 @@
       "capacity":"400-500 Kişi",
       "star": "5",
       "starvoting": "22",
-      "iseditorspick":"false",
+      "iseditorspick":false,
       "image": "/teras.png"
     },
     {
@@ -52,7 +52,7 @@
       "capacity":"500 - 750 Kişi",
       "star": "5",
       "starvoting": "145",
-      "iseditorspick":"false",
+      "iseditorspick":false,
       "image": "/park.jpg"
     },
     {
@@ -63,7 +63,7 @@
       "capacity":"1000 - 2000 kişi",
       "star": "5",
       "starvoting": "15",
-      "iseditorspick":"true",
+      "iseditorspick":true,
       "image": "/gala.jpg"
     },
     {
@@ -74,7 +74,7 @@
       "capacity":"750 - 1000 Kişi",
       "star": "4",
       "starvoting": "15",
-      "iseditorspick":"true",
+      "iseditorspick":true,
       "image": "/sophia.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "capacity":"200-300 Kişi",
       "star": "5",
       "starvoting": "65",
-      "iseditorspick":"false",
+      "iseditorspick":false,
       "image": "/fuat.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "capacity":"500 - 750 Kişi",
       "star": "4",
       "starvoting": "5",
-      "iseditorspick":"true",
+      "iseditorspick":true,
       "image": "/revan.jpg"
     }
   ]
