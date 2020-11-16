@@ -9,6 +9,7 @@
       "star": "5",
       "starvoting": "55",
       "iseditorspick":true,
+      "isfastresponse":true,
       "image": "/lazzoni.png"
     },
     {
@@ -20,6 +21,7 @@
       "star": "4",
       "starvoting": "25",
       "iseditorspick":false,
+      "isfastresponse":true,
       "image": "/double.png"
     },
     {
@@ -31,6 +33,7 @@
       "star": "3",
       "starvoting": "45",
       "iseditorspick":true,
+      "isfastresponse":false,
       "image": "/mio.png"
     },
     {
@@ -42,6 +45,7 @@
       "star": "5",
       "starvoting": "22",
       "iseditorspick":false,
+      "isfastresponse":false,
       "image": "/teras.png"
     },
     {
@@ -53,6 +57,7 @@
       "star": "5",
       "starvoting": "145",
       "iseditorspick":false,
+      "isfastresponse":true,
       "image": "/park.jpg"
     },
     {
@@ -64,6 +69,7 @@
       "star": "5",
       "starvoting": "15",
       "iseditorspick":true,
+      "isfastresponse":true,
       "image": "/gala.jpg"
     },
     {
@@ -75,6 +81,7 @@
       "star": "4",
       "starvoting": "15",
       "iseditorspick":true,
+      "isfastresponse":false,
       "image": "/sophia.jpg"
     },
     {
@@ -86,6 +93,7 @@
       "star": "5",
       "starvoting": "65",
       "iseditorspick":false,
+      "isfastresponse":true,
       "image": "/fuat.jpg"
     },
     {
@@ -97,6 +105,7 @@
       "star": "4",
       "starvoting": "5",
       "iseditorspick":true,
+      "isfastresponse":true,
       "image": "/revan.jpg"
     }
   ]
