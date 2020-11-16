@@ -7,7 +7,7 @@
       "location": "Beyoğlu",
       "capacity":"Max 300-400 Kişi",
       "star": "5",
-      "starvoting": "55"
+      "starvoting": "55",
       "image": "/lazzoni.png"
     },
     {
@@ -17,7 +17,7 @@
       "location": "Beşiktaş",
       "capacity":"600-700 Kişi",
       "star": "4",
-      "starvoting": "25"
+      "starvoting": "25",
       "image": "/double.png"
     },
     {
@@ -27,7 +27,7 @@
       "location": "Ankara",
       "capacity":"Max 200-300 Kişi",
       "star": "3",
-      "starvoting": "45"
+      "starvoting": "45",
       "image": "/mio.png"
     },
     {
@@ -37,7 +37,7 @@
       "location": "Kadıköy",
       "capacity":"400-500 Kişi",
       "star": "5",
-      "starvoting": "22"
+      "starvoting": "22",
       "image": "/teras.png"
     },
     {
@@ -47,7 +47,7 @@
       "location": "Ankara",
       "capacity":"500 - 750 Kişi",
       "star": "5",
-      "starvoting": "145"
+      "starvoting": "145",
       "image": "/park.jpg"
     },
     {
@@ -57,7 +57,7 @@
       "location": "Beylikdüzü",
       "capacity":"1000 - 2000 kişi",
       "star": "5",
-      "starvoting": "15"
+      "starvoting": "15",
       "image": "/gala.jpg"
     },
     {
@@ -67,7 +67,7 @@
       "location": "Ankara",
       "capacity":"750 - 1000 Kişi",
       "star": "4",
-      "starvoting": "15"
+      "starvoting": "15",
       "image": "/sophia.jpg"
     },
     {
@@ -77,7 +77,7 @@
       "location": "Ankara",
       "capacity":"200-300 Kişi",
       "star": "5",
-      "starvoting": "65"
+      "starvoting": "65",
       "image": "/fuat.jpg"
     },
     {
