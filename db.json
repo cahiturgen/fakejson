@@ -8,7 +8,7 @@
       "capacity":"Max 300-400 Kişi",
       "star": "5",
       "starvoting": "55",
-      "iseditorspick":"true",
+      "iseditorspick":true,
       "image": "/lazzoni.png"
     },
     {
