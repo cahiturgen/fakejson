@@ -1,39 +1,94 @@
 {
-  "posts": [
+  "weddinglist": [
     {
       "id": 1,
-      "title": "İlk Karalar Nasıl Oluştu?",
-      "image": "/ilk-karalar.jpg"
+      "name": "Lazzoni Hotel",
+      "price": "Min. Yemekli 100 - 150 TL",
+      "location": "Beyoğlu",
+      "capacity":"Max 300-400 Kişi",
+      "star": "5",
+      "starvoting": "55"
+      "image": "/lazzoni.png"
     },
     {
       "id": 2,
-      "title": "Marstan Gelen Birine İnsanı Nasıl Tarif Ederdin?",
-      "image": "/mars.jpg"
+      "title": "DoubleTree by Hilton Istanbul Topkapı",
+      "price": "300 - 350 TL",
+      "location": "Beşiktaş",
+      "capacity":"600-700 Kişi",
+      "star": "4",
+      "starvoting": "25"
+      "image": "/double.png"
     },
     {
       "id": 3,
-      "title": "Beynin En Çok Hoşuna Giden Yanı Nedir?",
-      "image": "/beyin.jpg"
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "title": "İlginç Bilgiler",
-      "url":"ilginc-bilgiler"
+      "title": "Mio Giardino",
+      "price": "Min. Yemekli 200 - 300 TL",
+      "location": "Ankara",
+      "capacity":"Max 200-300 Kişi",
+      "star": "3",
+      "starvoting": "45"
+      "image": "/mio.png"
     },
     {
-      "id": 2,
-      "title": "İlginç Yazılar",
-      "url":"ilginc-yazilar"
+      "id": 4,
+      "title": "Teras 212 Beşiktaş",
+      "price": "150 - 200 TL",
+      "location": "Kadıköy",
+      "capacity":"400-500 Kişi",
+      "star": "5",
+      "starvoting": "22"
+      "image": "/teras.png"
     },
-        {
-      "id": 3,
-      "title": "İlginç Sorular",
-      "url":"ilginc-sorular"
+    {
+      "id": 5,
+      "title": "Park Hotel Polonezköy",
+      "price": "100 - 150 TL",
+      "location": "Ankara",
+      "capacity":"500 - 750 Kişi",
+      "star": "5",
+      "starvoting": "145"
+      "image": "/park.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Grand Gala Deluxe",
+      "price": "100 - 150 TL",
+      "location": "Beylikdüzü",
+      "capacity":"1000 - 2000 kişi",
+      "star": "5",
+      "starvoting": "15"
+      "image": "/gala.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sophia Çengelköy",
+      "price": "50 - 100 TL",
+      "location": "Ankara",
+      "capacity":"750 - 1000 Kişi",
+      "star": "4",
+      "starvoting": "15"
+      "image": "/sophia.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Fuat Paşa Yalısı",
+      "price": "200 - 300 TL",
+      "location": "Ankara",
+      "capacity":"200-300 Kişi",
+      "star": "5",
+      "starvoting": "65"
+      "image": "/fuat.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Revan Garden Davet",
+      "price": "Min. Yemekli 200 - 300 TL",
+      "location": "Ankara",
+      "capacity":"500 - 750 Kişi",
+      "star": "4",
+      "starvoting": "5"
+      "image": "/revan.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
