@@ -1,112 +1,36 @@
 {
-  "weddinglist": [
+  "cities": [
     {
       "id": 1,
-      "title": "Lazzoni Hotel",
-      "price": "Min. Yemekli 100 - 150 TL",
-      "location": "Beyoğlu",
-      "capacity":"Max 300-400 Kişi",
-      "star": "5",
-      "starvoting": "55",
-      "iseditorspick":true,
-      "isfastresponse":true,
-      "image": "/lazzoni.png"
+      "name": "İstanbul"
     },
     {
       "id": 2,
-      "title": "DoubleTree by Hilton Istanbul Topkapı",
-      "price": "300 - 350 TL",
-      "location": "Beşiktaş",
-      "capacity":"600-700 Kişi",
-      "star": "4",
-      "starvoting": "25",
-      "iseditorspick":false,
-      "isfastresponse":true,
-      "image": "/double.png"
+"name": "Ankara"
     },
     {
       "id": 3,
-      "title": "Mio Giardino",
-      "price": "Min. Yemekli 200 - 300 TL",
-      "location": "Levent",
-      "capacity":"Max 200-300 Kişi",
-      "star": "3",
-      "starvoting": "45",
-      "iseditorspick":true,
-      "isfastresponse":false,
-      "image": "/mio.png"
+"name": "Samsun"
     },
     {
       "id": 4,
-      "title": "Teras 212 Beşiktaş",
-      "price": "150 - 200 TL",
-      "location": "Kadıköy",
-      "capacity":"400-500 Kişi",
-      "star": "5",
-      "starvoting": "22",
-      "iseditorspick":false,
-      "isfastresponse":false,
-      "image": "/teras.png"
+"name": "Sinop"
     },
     {
       "id": 5,
-      "title": "Park Hotel Polonezköy",
-      "price": "100 - 150 TL",
-      "location": "Ümraniye",
-      "capacity":"500 - 750 Kişi",
-      "star": "5",
-      "starvoting": "145",
-      "iseditorspick":false,
-      "isfastresponse":true,
-      "image": "/park.jpg"
+"name": "Kırıkkale"
     },
     {
       "id": 6,
-      "title": "Grand Gala Deluxe",
-      "price": "100 - 150 TL",
-      "location": "Beylikdüzü",
-      "capacity":"1000 - 2000 kişi",
-      "star": "5",
-      "starvoting": "15",
-      "iseditorspick":true,
-      "isfastresponse":true,
-      "image": "/gala.jpg"
+"name": "Malatya"
     },
     {
       "id": 7,
-      "title": "Sophia Çengelköy",
-      "price": "50 - 100 TL",
-      "location": "Beyoğlu",
-      "capacity":"750 - 1000 Kişi",
-      "star": "4",
-      "starvoting": "15",
-      "iseditorspick":true,
-      "isfastresponse":false,
-      "image": "/sophia.jpg"
+"name": "İzmir"
     },
     {
       "id": 8,
-      "title": "Fuat Paşa Yalısı",
-      "price": "200 - 300 TL",
-      "location": "Ataşehir",
-      "capacity":"200-300 Kişi",
-      "star": "5",
-      "starvoting": "65",
-      "iseditorspick":false,
-      "isfastresponse":true,
-      "image": "/fuat.jpg"
-    },
-    {
-      "id": 9,
-      "title": "Revan Garden Davet",
-      "price": "Min. Yemekli 200 - 300 TL",
-      "location": "Sultanbeyli",
-      "capacity":"500 - 750 Kişi",
-      "star": "4",
-      "starvoting": "5",
-      "iseditorspick":true,
-      "isfastresponse":true,
-      "image": "/revan.jpg"
+"name": "Erzincan"
     }
   ]
 }
